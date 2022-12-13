@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  java-web-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-13T07:58:37.057402637Z"
+    description: A Helm chart for Kubernetes
+    digest: a5634a9d796137daa77ba6f97cab0d0b740ccde175fee04c1343b89478aa03a9
+    name: java-web-app
+    type: application
+    urls:
+    - https://dinesh-ec-project.github.io/Dinesh-Helm-Repo/java-web-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-12-13T07:58:37.055586592Z"
